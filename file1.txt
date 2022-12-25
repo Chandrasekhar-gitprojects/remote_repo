@@ -1,3 +1,4 @@
 this is first line in file1.txt by Dev-A
 Second line in file1.txt by Dev-B
 third line modified by Dev-A
+fourth line modified by Dev-A
